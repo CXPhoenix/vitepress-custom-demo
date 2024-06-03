@@ -14,6 +14,10 @@ export default defineConfig({
         href: "/",
       },
       {
+        text: "💯 INTRO",
+        href: "/vitepress-custom-demo/intro",
+      },
+      {
         text: "🔥 New",
         href: "/",
       },
